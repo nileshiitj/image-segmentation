@@ -1,10 +1,4 @@
-# [SimpleClick: Interactive Image Segmentation with Simple Vision Transformers](https://openaccess.thecvf.com/content/ICCV2023/html/Liu_SimpleClick_Interactive_Image_Segmentation_with_Simple_Vision_Transformers_ICCV_2023_paper.html)
 
-**University of North Carolina at Chapel Hill**
-
-[Qin Liu](https://sites.google.com/cs.unc.edu/qinliu/home), [Zhenlin Xu](https://wildphoton.github.io/), [Gedas Bertasius](https://www.gedasbertasius.com/), [Marc Niethammer](https://biag.cs.unc.edu/)
-
-ICCV 2023
 
 <p align="center">
     <a href="https://paperswithcode.com/sota/interactive-segmentation-on-sbd?p=simpleclick-interactive-image-segmentation">
@@ -68,26 +62,5 @@ OAI-ZIB dataset (150 cases): [Google Drive](https://drive.google.com/drive/folde
 
 Other datasets: [RITM Github](https://github.com/saic-vul/ritm_interactive_segmentation)
 
-## Notes
-[03/11/2023] Add an xTiny model.
 
-[10/25/2022] Add docker files.
 
-[10/02/2022] Release the main models. This repository is still under active development.
-
-## License
-The code is released under the MIT License. It is a short, permissive software license. Basically, you can do whatever you want as long as you include the original copyright and license notice in any copy of the software/source. 
-
-## Citation
-```bibtex
-@InProceedings{Liu_2023_ICCV,
-    author    = {Liu, Qin and Xu, Zhenlin and Bertasius, Gedas and Niethammer, Marc},
-    title     = {SimpleClick: Interactive Image Segmentation with Simple Vision Transformers},
-    booktitle = {Proceedings of the IEEE/CVF International Conference on Computer Vision (ICCV)},
-    month     = {October},
-    year      = {2023},
-    pages     = {22290-22300}
-}
-```
-## Acknowledgement
-Our project is developed based on [RITM](https://github.com/saic-vul/ritm_interactive_segmentation). Thanks for the nice demo GUI :)
